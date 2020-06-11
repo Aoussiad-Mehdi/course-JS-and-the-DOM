@@ -1,2 +1,2 @@
 # course-JS-and-the-DOM
-Thanks for the course ! 
+This is a simple project that we worked on in udacity.
